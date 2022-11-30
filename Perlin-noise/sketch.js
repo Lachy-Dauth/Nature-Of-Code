@@ -1,5 +1,5 @@
 // let x_off = 0;
-let inc = 0.02;
+let inc = 0.01;
 let z_off = 0;
 // let y_const = 100;
 
