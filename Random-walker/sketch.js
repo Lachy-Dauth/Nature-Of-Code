@@ -6,6 +6,7 @@ function setup() {
   x = 1000;
   y = 1000;
   background(51);
+  console.log(9**10)
 }
 
 function draw() {
